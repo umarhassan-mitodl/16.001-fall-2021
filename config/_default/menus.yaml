@@ -1,0 +1,29 @@
+leftnav:
+- identifier: cf7a79f2-63b3-4bcc-a9b1-1c933a6eb969
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f4ce1b2e-ef0f-4640-9af0-409fefb475c4
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 66690681-d7bd-4313-8660-55cb49ec7ced
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: 59a0dec9-e4ea-4194-b446-396e4b281635
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 35ff0c60-72d6-422d-b7f6-da9ceea99222
+  name: Problem Sets
+  pageRef: /pages/problem-sets2
+  weight: 50
+- identifier: a39486fd-6e70-49a2-876c-c5e7c2e53dc8
+  name: Labs
+  pageRef: /pages/problem-sets
+  weight: 60
+- identifier: 91133091-80f0-4593-811e-655325d15d27
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 70

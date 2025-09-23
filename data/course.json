@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Materials Selection"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "c52a2cd3-e2b0-3da9-77a3-0aa88635c03b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "07ccc2e6-63ac-4ca6-9121-01cbf8062103",
+    "website": "unified-engineering-materials-and-structures"
+  },
+  "course_title": "Unified Engineering: Materials and Structures",
+  "hide_download": false,
+  "course_description": "This course presents fundamental principles and methods of materials and structures for aerospace engineering, and engineering analysis and design concepts applied to aerospace systems. The topics include statics; analysis of trusses; analysis of statically determinate and indeterminate systems; stress-strain behavior of materials; analysis of beam bending, buckling, and torsion; and material and structural failure, including plasticity, fracture, fatigue, and their physical causes. Experiential lab and aerospace system projects provide additional aerospace context.",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.001",
+  "course_image_thumbnail": {
+    "content": "c31d81de-61f4-450f-8e0c-c9c4bcb0f38c",
+    "website": "unified-engineering-materials-and-structures"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Laboratory Assignments",
+    "Open Textbooks",
+    "Readings"
+  ],
+  "site_uid": "f95a24ad-4f79-4288-88f7-c176b7062cc6",
+  "site_short_id": "16.001-fall-2021",
+  "site_url_path": "courses/16-001-unified-engineering-materials-and-structures-fall-2021"
+}
