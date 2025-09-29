@@ -5,6 +5,8 @@ draft: false
 file: /courses/16-001-unified-engineering-materials-and-structures-fall-2021/mit16_001_f21_pset10.pdf
 file_size: 340425
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -15,11 +15,11 @@ Recitations: 1 hour / session, 2 sessions / week
 
 ## Prerequisites
 
-{{% resource_link "02865f7a-53c7-406e-aa6c-f86cec81999b" "*18.02 Calculus II: Multivariable Calculus*" %}} and {{% resource_link "b7a9ae34-ba4d-445c-8ae8-05a620c18ce7" "*8.01 Physics I: Classical Mechanics*" %}}
+[*18.02 Calculus II: Multivariable Calculus*](https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/) and [*8.01 Physics I: Classical Mechanics*](https://ocw.mit.edu/courses/8-01l-physics-i-classical-mechanics-fall-2005/)
 
 ## Corequisites
 
-*16.002 Unified Engineering II: Signals and Systems* and {{% resource_link "21258ede-0bcd-4e8a-844c-0782fcf98340" "*18.03: Differential Equations*" %}} 
+*16.002 Unified Engineering II: Signals and Systems* and [*18.03: Differential Equations*](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/) 
 
 ## Introduction
 
@@ -41,7 +41,7 @@ S. Crandall, N. Dahl, et al., *An Introduction to the Mechanics of Solids (In SI
 
 M. F. Ashby and D. R. H. Jones, *Engineering Materials 1: An Introduction to Their Properties and Applications*, Pergamon Press, 1980. ISBN: 9780080261393.
 
-R. Hibbeler, *Engineering Mechanics: Statics* (any recent edition), Pearson. ISBN: 9780132915540. \[Free {{% resource_link "fcb61047-6425-49c4-9871-f350c32032a9" "eBook" %}} from the Internet Archive\] \[Additional information and {{% resource_link "7dbc27de-69ad-44f2-ad4b-5ff129d757a2" "access" %}} via Open Library\]
+R. Hibbeler, *Engineering Mechanics: Statics* (any recent edition), Pearson. ISBN: 9780132915540. \[Free [eBook](https://archive.org/details/staticsstudypack0000hibb) from the Internet Archive\] \[Additional information and [access](https://openlibrary.org/books/OL29078979M/Study_Pack_for_Engineering_Mechanics) via Open Library\]
 
 R. Hibbeler, *Mechanics of Materials* (any recent edition), Pearson. ISBN: 9780134319650.
 
@@ -64,7 +64,7 @@ W. Bickford, *Mechanics of Solids: Concepts and Applications*, Irwin, 1993. ISBN
 
 A fundamental principle of academic integrity is that you must fairly represent the *source* of the intellectual content of the work you submit for credit. In the context of Unified Engineering, this means that if you consult other sources (such as fellow students, TAs, faculty, literature, old problems from prior years) in the process of completing homework, system problems, and labs, or any other assignment, you must acknowledge the sources in any way that reflects true ownership of the ideas and methods you used.
 
-Doing homework helps to engage with the concepts and material taught in class on a deeper level. To enhance the learning process, we strongly suggest that you first try to solve the problems by yourself and then discuss challenges in groups or in office hours if necessary. Discussion among students and office hours to digest the material and the homework problems or to prepare for laboratories or exams is considered useful in the educational process and copies of problems and exams of previous years will be made available by the instructors on the Unified website. Collaboration on homework is allowed unless otherwise directed as long as all references (both literature and people) used are named clearly at the end of the assignment. Word-by-word copies of someone else’s solution or parts of a solution handed in for credit will be considered cheating unless there is a reference to the source for any part of the work that was copied verbatim. Failure to cite the contribution of another student to your homework solution will be considered cheating. Official Institute policy regarding academic honesty can be found in the MIT Bulletin Course and Degrees Issue under “{{% resource_link "5c653e20-de18-4152-9d40-e552a94f9dad" "Academic Procedures and Institute Regulations" %}}.” The {{% resource_link "aa59c7a0-5c92-4873-a7ba-8be856b93ff0" "Academic Integrity Handbook" %}}, a guide for students published by the Office of the Dean for Undergraduate Education, contains additional information that may be helpful. 
+Doing homework helps to engage with the concepts and material taught in class on a deeper level. To enhance the learning process, we strongly suggest that you first try to solve the problems by yourself and then discuss challenges in groups or in office hours if necessary. Discussion among students and office hours to digest the material and the homework problems or to prepare for laboratories or exams is considered useful in the educational process and copies of problems and exams of previous years will be made available by the instructors on the Unified website. Collaboration on homework is allowed unless otherwise directed as long as all references (both literature and people) used are named clearly at the end of the assignment. Word-by-word copies of someone else’s solution or parts of a solution handed in for credit will be considered cheating unless there is a reference to the source for any part of the work that was copied verbatim. Failure to cite the contribution of another student to your homework solution will be considered cheating. Official Institute policy regarding academic honesty can be found in the MIT Bulletin Course and Degrees Issue under “[Academic Procedures and Institute Regulations](http://catalog.mit.edu/mit/procedures/term-regulations-exam-policies/).” The [Academic Integrity Handbook](http://integrity.mit.edu/), a guide for students published by the Office of the Dean for Undergraduate Education, contains additional information that may be helpful. 
 
 ### Unified Study Group Guidelines
 
