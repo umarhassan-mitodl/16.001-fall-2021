@@ -5,8 +5,6 @@ draft: false
 file: /courses/16-001-unified-engineering-materials-and-structures-fall-2021/mit16_001s_f21_lab02.pdf
 file_size: 122326
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
