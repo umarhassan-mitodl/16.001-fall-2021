@@ -13,7 +13,7 @@ The following textbooks are used in the reading assignments.
 
 \[AJ\] = M. F. Ashby and D. R. H. Jones, *Engineering Materials 1: An Introduction to Their Properties and Applications*, Pergamon Press, 1980. ISBN: 9780080261393.
 
-R. Hibbeler, *Engineering Mechanics: Statics* (any recent edition), Pearson. ISBN: 9780132915540. \[Free [eBook](https://archive.org/details/staticsstudypack0000hibb) from the Internet Archive\] \[Additional information and [access](https://openlibrary.org/books/OL29078979M/Study_Pack_for_Engineering_Mechanics) via Open Library\]
+R. Hibbeler, *Engineering Mechanics: Statics* (any recent edition), Pearson. ISBN: 9780132915540. \[Free {{% resource_link "35e1d244-6560-4cad-9ecf-c8b876e9997f" "eBook" %}} from the Internet Archive\] \[Additional information and {{% resource_link "fe557a03-2ed3-4808-adec-37dd85c92a77" "access" %}} via Open Library\]
 
 R. Hibbeler, *Mechanics of Materials* (any recent edition), Pearson. ISBN: 9780134319650.
 
